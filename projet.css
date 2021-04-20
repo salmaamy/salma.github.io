@@ -1,4 +1,14 @@
+header{
 
+background-image: url(saloum4.jpg);
+
+    background-repeat: no-repeat;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+    background-size: cover;
+
+    padding: 250px;
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
